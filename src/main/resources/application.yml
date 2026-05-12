@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: spring-push-telegram-sample
+
+jasypt:
+  encryptor:
+    bean: jasyptEncryptor
+
+telegram:
+  bot-token: ENC(m68pHwgb6HrYR9RxotHdVvYCpqV9+pv2qJxjy0RY4g4x/6LMYRTdv79k2+hzw/ssP/ITnxdoLc0=)
